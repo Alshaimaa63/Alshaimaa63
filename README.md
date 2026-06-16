@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi:
 Hi! I’m Shimaa, a Computer and Information Sciences student and a passionate Software Tester and Front-End enthusiast. I enjoy building, breaking, and improving systems, and I’m always exploring new technologies to grow my skills in software development and quality assurance.<br><br>🎓 Computer and Information Sciences student<br>🧠 Passionate about problem-solving and logical thinking<br>💻 Front-End developer (HTML, CSS, JavaScript)<br>🧪 Interested in Software Testing (Manual & Automation with Selenium)<br>🐍 Currently learning Python and exploring ASP.NET Core (C#) for backend development<br>🏆 Member of ICPC Asyut community<br>🚀 Participant in “Digital Egypt Pioneers Initiative (DEPL)” in Software Testing track<br>📊 Experienced in writing detailed test cases and working on real testing projects (like PrestaShop demo)<br>🎨 Graphic Designer in my university community<br>🔗 Active on LinkedIn and enjoy working on real-world projects<br>💡 Strong interest in proposal writing and system improvement
 
 
